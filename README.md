@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Francisco Bruno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
-**lbfjo/lbfjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lbfjo/lbfjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+This is the place where I opensource stuff and break things 🤣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 Ask me anything [here](https://github.com/vibhorchaudhary/lbfjo/issues) related to <b>Mobile Development Native, TypeScript, ReactJs, React Native </b>
+- 📫 How to reach me: [@franciscojlbruno](https://www.linkedin.com/in/franciscojlbruno/) or say 👋 on Email at [FranciscoBruno](mailto:franciscojlbruno@gmail.com)
+- ⚡ Fun fact: I ❤️ :computer: & ❤️ :rugby_football:
+
+### Languages and Tools:
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+
+
+<br />
+<br />
+
+### 📊 GitHub Stats:
+![Francisco Bruno github stats](https://github-readme-stats.vercel.app/api?username=lbfjo&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+
