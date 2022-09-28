@@ -6,7 +6,7 @@
 This is the place where I opensource stuff and break things 🤣
 
 
-- 💬 Ask me anything [here](https://github.com/vibhorchaudhary/lbfjo/issues) related to <b>Mobile Development Native, TypeScript, ReactJs, React Native </b>
+- 💬 Ask me anything [here](https://github.com/vibhorchaudhary/lbfjo/issues) related to <b> TypeScript, ReactJs, React Native </b>
 - 📫 How to reach me: [@franciscojlbruno](https://www.linkedin.com/in/franciscojlbruno/) or say 👋 on Email at [FranciscoBruno](mailto:franciscojlbruno@gmail.com)
 - ⚡ Fun fact: I ❤️ :computer: & ❤️ :rugby_football:
 
