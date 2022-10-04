@@ -21,5 +21,5 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 
 ### 📊 GitHub Stats:
-![Francisco Bruno github stats](https://github-readme-stats.vercel.app/api?username=lbfjo&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Francisco Bruno github stats](https://github-readme-stats.vercel.app/api?username=lbfjo&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=issues,stars)
 
